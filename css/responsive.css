@@ -1,0 +1,259 @@
+@media screen and (max-width: 1199.98px) {
+    #header .main-nav .navbar-nav .nav-link {
+        font-size: 10px !important;
+        padding: 0 4px;
+        margin: 0 3px;
+    }
+    
+    .bg{
+        background-position: right;
+    }
+    .Rectangle2{
+        background-position: right;
+    }
+
+    .Rectangle2 .box {
+        max-width: 70%;
+    }
+
+    .Landing-Nova .box button {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 991.98px) {
+
+    #header,
+    .bg {
+        overflow: visible !important;
+    }
+
+    #header .main-nav .navbar-nav {
+        position: relative;
+        background: #fff;
+        top: 0;
+        -ms-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+        margin: 6px auto;
+        padding: 20px 0;
+        text-align: center;
+        z-index: 999;
+    }
+
+    #header .main-nav .navbar-nav .nav-link {
+        margin: 10px;
+    }
+    
+
+    .bg h1 {
+        font-size: 30px;
+    }
+
+    .bg p {
+        font-size: 16px;
+        padding-right: 9%;
+    }
+
+    .bg .button {
+        width: 220px;
+        font-size: 14px;
+    }
+
+    .como_func .box .image span {
+        display: none;
+    }
+
+    .heading p {
+        padding: 10px 0;
+    }
+
+    .pricing .price-box.business {
+        height: 420px;
+        margin-top: 18px;
+    }
+    .Landing-Nova .box{
+        min-height: 360px;
+    }
+
+    .Rectangle2 .box {
+        max-width: 100%;
+    }
+
+    #header .main-nav .navbar-nav .nav-link {
+        font-size: 14px !important;
+    }
+
+    #header .nav-item.color {
+        background: transparent;
+    }
+
+    #header .nav-item.color .nav-link {
+        color: #606060;
+    }
+
+    #sistema h2 {
+        margin-top: 30px;
+    }
+
+    .Rectangle {
+        height: auto;
+    }
+
+    .Rectangle h2 {
+        font-size: 27px;
+    }
+
+    .Rectangle p {
+        font-size: 14px;
+        padding: 0;
+    }
+    #contact h2{
+        font-size: 28px;
+    }
+
+
+    #vantagens .box {
+        margin: 35px 0;
+    }
+
+    #contact form {
+        width: 95%;
+    }
+
+    #contact p {
+        padding: 0 9%;
+    }
+    .contact .box {
+        margin-bottom: 40px;
+    }
+
+    .copyright .box {
+        width: 95%;
+    }
+
+    .copyright ul {
+        margin-top: -40px;
+    }
+
+
+    .bg2 .box {
+        max-width: 100%;
+    }
+    .agora .box .select{
+        margin-bottom: 20px;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 767.98px) {
+    
+    .bg2{
+        background-position: right;
+    }
+    #sistema p {
+        font-size: 14px;
+    }
+
+    .Rectangle h2 {
+        margin-bottom: 20px;
+    }
+
+    .como_func .box .image span {
+        display: none;
+    }
+
+    #vantagens .box h6 {
+        margin: 10px 0;
+    }
+
+    #contact form {
+        width: 100%;
+    }
+
+    .copyright .box {
+        width: 100%;
+    }
+
+    #contact p {
+        padding: 0;
+    }
+
+    .Rectangle2 .box p {
+        padding-right: 0;
+    }
+
+    .Rectangle3 .box p {
+        padding-left: 0;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    .bg{
+        background: url('../images/res1.jpg');
+        background-size: cover;
+        background-position: right;
+    }
+    .copyright ul {
+        margin-top: 15px;
+        float: left;
+    }
+
+    .bg2 .box h1 {
+        font-size: 30px;
+    }
+    
+    .counting-up .box h1{
+        font-size: 32px;
+    }
+    .counting-up .box h1 span{
+        font-size: 12px;
+    }
+    .agora button{
+        width: 216px;
+        font-size: 14px;
+    }
+    #sistema h2{
+        font-size: 25px;
+    }
+    .copyright{
+        text-align: center;
+    }
+    .copyright ul{
+        float: inherit;
+        display: inline-block;
+    }
+}
+
+
+@media (max-width: 400px){
+    .bg{
+        background-position: bottom;
+    }
+    .bg h1 {
+        font-size: 27px;
+        }
+    #sistema h2{
+        font-size: 24px;
+    }
+}
+
+
+@media (max-width: 318.98px){
+    .agora button {
+        width: 200px;
+        font-size: 12px;
+    }
+}
